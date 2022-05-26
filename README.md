@@ -1,5 +1,7 @@
 # Survey of reproducibility in _hep-lat_ submissions in 2021
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6584001.svg)](https://doi.org/10.5281/zenodo.6584001)
+
 This repository makes available the results of a survey of all
 submissions and cross-lists to the hep-lat [arxiv][arxiv] in 2021.
 
