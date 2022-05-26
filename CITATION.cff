@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use these data or the attached analysis code, please cite it as below."
+authors:
+  - family-names: Bennett
+    given-names: Ed
+    orcid: https://orcid.org/0000-0002-1678-6701
+title: edbennett/repro_survey_2021: initial release
+version: v1.0.0
+date-released: 2022-05-26
