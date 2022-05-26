@@ -88,8 +88,15 @@ comma-separated format, with the columns as documented below.
 * `Included`: code is included as part of the publication
 * `Footnote/inline URL`: a URL to the resource is included either inline in the text or in a footnote, but not in the references section/bibliography
 
+## Analysis
+
+An initial analysis of the data is presented in the Jupyter notebook
+`analysis.ipynb`. Results from this analysis were [presented][uklft-talk]
+at the UKLFT Annual Meeting in Liverpool in May 2022.
+
 [arxiv]: https://arxiv.org
 [arxiv-api]: https://arxiv.org/help/api/
 [inspire-api]: https://github.com/inspirehep/rest-api-doc
 [pdfgrep]: https://pdfgrep.org
+[uklft-talk]: https://edbennett.github.io/uklft-talk-20220527
 [zenodo]: https://zenodo.org
