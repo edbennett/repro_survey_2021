@@ -92,13 +92,20 @@ comma-separated format, with the columns as documented below.
 
 ## Analysis
 
-An initial analysis of the data is presented in the Jupyter notebook
-`analysis.ipynb`. Results from this analysis were [presented][uklft-talk]
-at the UKLFT Annual Meeting in Liverpool in May 2022.
+A summary initial analysis of the data is presented in the Jupyter notebook
+`analysis.ipynb`. Results from this analysis were presented
+[at the UKLFT Annual Meeting in Liverpool in May 2022][uklft-talk] and [at the 39th annual symposium on Lattice Field Theory (LATTICE 2022)][lattice-talk].
+
+## Version history
+
+* 1.1.0: Updated analysis notebook as presented at Lattice 2022, removing split between UK and non-UK. Field "Lattice data grid acknowledged" renamed to "Configuration hosting infrastructure acknowledged" to avoid confusion with the specific ILDG Regional Grid called the "Lattice Data Grid".
+* 1.0.1: minor update to cropping in analysis notebook
+* 1.0.0: Initial release.
 
 [arxiv]: https://arxiv.org
 [arxiv-api]: https://arxiv.org/help/api/
 [inspire-api]: https://github.com/inspirehep/rest-api-doc
+[lattice-talk]: https://edbennett.github.io/lattice2022-survey-talk
 [pdfgrep]: https://pdfgrep.org
 [uklft-talk]: https://edbennett.github.io/uklft-talk-20220527
 [zenodo]: https://zenodo.org
