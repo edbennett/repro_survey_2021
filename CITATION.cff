@@ -1,9 +1,9 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use these data or the attached analysis code, please cite it as below."
 authors:
   - family-names: Bennett
     given-names: Ed
     orcid: https://orcid.org/0000-0002-1678-6701
-title: edbennett/repro_survey_2021: initial release
-version: v1.0.0
-date-released: 2022-05-26
+title: "Survey of reproducibility in hep-lat publications in 2021"
+version: v1.1.0
+date-released: 2022-08-09
