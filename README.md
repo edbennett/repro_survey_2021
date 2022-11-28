@@ -98,6 +98,7 @@ A summary initial analysis of the data is presented in the Jupyter notebook
 
 ## Version history
 
+* 1.1.1: Allow plotting style to be switched for Lattice 2022 proceedings
 * 1.1.0: Updated analysis notebook as presented at Lattice 2022, removing split between UK and non-UK. Field "Lattice data grid acknowledged" renamed to "Configuration hosting infrastructure acknowledged" to avoid confusion with the specific ILDG Regional Grid called the "Lattice Data Grid".
 * 1.0.1: minor update to cropping in analysis notebook
 * 1.0.0: Initial release.
